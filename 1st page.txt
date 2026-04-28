@@ -1,3 +1,6 @@
+********************************  1 st page codes ***************************************************************
+
+
 Implementation of First Come First Served Non-preemptive Scheduling algorithm. 
 
 code-
@@ -33,6 +36,11 @@ for i in range(n):
 
 print("\nAverage Waiting Time =", sum(waiting_time)/n)
 print("Average Turnaround Time =", sum(turnaround_time)/n)
+
+
+
+******************************************************************************************************************
+
 
 Implementation of Shortest remaining time first – non preemptive Scheduling algorithm. 
 
@@ -85,6 +93,10 @@ for i in range(n):
 
 print("\nAverage Waiting Time =", sum(wt)/n)
 print("Average Turnaround Time =", sum(tat)/n)
+
+******************************************************************************************************************
+
+
 
 Implementation of round robin preemptive Scheduling algorithm. 
 
@@ -163,6 +175,11 @@ for i in range(n):
 print("\nAverage Waiting Time =", sum(wt)/n)
 print("Average Turnaround Time =", sum(tat)/n)
 
+
+******************************************************************************************************************
+
+
+
  Implementation of priority based non Preemptive Scheduling algorithm. 
 
 code-
@@ -216,6 +233,11 @@ for i in range(n):
 print("\nAverage Waiting Time =", sum(wt)/n)
 print("Average Turnaround Time =", sum(tat)/n)
 
+
+******************************************************************************************************************
+
+
+
 Implementation of non Preemptive Scheduling algorithm. 
 
 code-
@@ -264,3 +286,9 @@ for i in range(n):
 
 print("\nAvg WT =", sum(wt)/n)
 print("Avg TAT =", sum(tat)/n)
+
+
+******************************************************************************************************************
+
+
+
